@@ -33,7 +33,7 @@ Federal University of Campina Grande (UFCG)
 
 # Laboratório de Organização e Arquitetura de Computadores - UFCG
 
-**Bem-vindo ao repositório da disciplina de Laboratório de Organização e Arquitetura de Computadores** do curso de Ciência da Computação da Universidade Federal de Campina Grande (UFCG). Este repositório servirá como um hub central para todas as atividades envolventes que irei explorar durante a disciplina.
+**Bem-vindo ao repositório da disciplina de Laboratório de Organização e Arquitetura de Computadores** do curso de Ciência da Computação da Universidade Federal de Campina Grande (UFCG). Este repositório servirá como um hub central para todas as atividades que irei explorar durante a disciplina.
 
 ## Sobre a Disciplina
 
