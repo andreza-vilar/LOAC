@@ -1,10 +1,10 @@
 # Computer Organization and Architecture Laboratory - UFCG
 
-Welcome to the repository for the Computer Organization and Architecture Laboratory course within the Computer Science program at the Federal University of Campina Grande (UFCG). This repository serves as a central hub for all the engaging activities that we will explore throughout the course.
+Welcome to the repository for the Computer Organization and Architecture Laboratory course within the Computer Science program at the Federal University of Campina Grande (UFCG). This repository serves as a central hub for all the engaging activities that I will explore throughout the course.
 
 ## About the Course
 
-The Computer Organization and Architecture Laboratory course is designed to provide practical and in-depth understanding of the underlying concepts of computer technology. From the basic structure of components to the execution of low-level programs, we will delve deep into the fundamentals of computer architecture.
+The Computer Organization and Architecture Laboratory course is designed to provide practical and in-depth understanding of the underlying concepts of computer technology. From the basic structure of components to the execution of low-level programs, I will delve deep into the fundamentals of computer architecture.
 
 ## Practical Laboratories
 
@@ -52,8 +52,7 @@ Os laboratórios práticos serão uma parte fundamental do aprendizado. Eles ofe
 
 ## Contato
 
-Se você tiver dúvidas sobre as atividades, os materiais ou qualquer aspecto, sinta-se à vontade para entrar em contato e tirar dúvidas.
-
+Se você tiver dúvidas sobre as atividades, os materiais ou qualquer aspecto, sinta-se à vontade para entrar em contato.
 
 Atenciosamente,
 
