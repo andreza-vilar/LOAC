@@ -24,3 +24,27 @@ No modo paralelo, os dados são carregados nos registradores de forma simultâne
 ### Modo Serial (SEL = 1)
 
 No modo serial, os dados são carregados sequencialmente nos registradores a cada pulso de clock, começando pelo bit mais significativo e indo até o bit menos significativo. O dado de entrada serial (`Din_serie`) é usado para alimentar os dados sequencialmente. O dado de saída paralela (`Dout[3:0]`) também refletirá os dados armazenados no registrador após cada pulso de clock.
+
+
+# Segunda Parte do Roteiro 04:
+
+## Problema 1 – Memória RAM R/W
+
+Construção de uma Memória RAM R/W 4x4, conforme descrição a seguir:
+
+### Entradas e Saídas
+
+- **clk:** Sinal de clock para sincronizar as operações da memória.
+- **Entrada de seleção:** SEL = 0 para leitura ("R") e SEL = 1 para escrita ("W").
+- **Dados de Entrada ("W"):** Din[3:0] para escrever os dados na memória.
+- **Endereços:** Addr[1:0] para selecionar a localização da memória.
+- **Dados de Saída ("R"):** Dout[3:0] para ler os dados da memória.
+
+## Problema 2 – Memória RAM ROM
+
+Construção de uma Memória RAM ROM 4x4, conforme descrição a seguir:
+
+### Entradas e Saídas
+
+- **Endereços:** Addr[1:0] para selecionar a localização da memória.
+- **Dados de Saída:** Dout[3:0] contendo os valores 0100, 1100, 0110 e 0111, que estão armazenados na memória, nos endereços 0, 1, 2 e 3, respectivamente.
