@@ -34,13 +34,3 @@ Este circuito digital detecta o início de uma mensagem em um sistema de comunic
 
 - `Entrada`: Linha de entrada que contém os bits de dados a serem analisados.
 - `S`: Saída que se torna 1 quando a entrada contém quatro bits consecutivos iguais a 1 durante quatro ciclos de clock consecutivos.
-
-Cada diretório neste repositório contém os arquivos de design VHDL ou Verilog relacionados a cada problema, juntamente com documentação adicional, se aplicável.
-
-Sinta-se à vontade para explorar os projetos individuais e usar ou adaptar o código de acordo com suas necessidades. Se você tiver alguma dúvida ou precisar de assistência, não hesite em entrar em contato.
-
-**Equipe de Desenvolvimento**
-Seu Nome e Contato
-
-**Licença**
-Este projeto é distribuído sob a Licença [Nome da Licença]. Veja o arquivo [LICENSE](LICENSE) para obter mais detalhes.
